@@ -1,3 +1,5 @@
+#Just adding as a backup. Will update/upgrade if I have time
+
 1. Splitting the dataset:
 	i. split -l 1215433 nlp_dataset this will divide the dataset into 2 parts, first part used for training language model. This gave us nlp_train and nlp_test files.
 	ii. split -l 810288 nlp_dataset this will divide the dataset into 3 parts, first part used for training language model
